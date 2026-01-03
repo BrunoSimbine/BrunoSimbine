@@ -1,10 +1,16 @@
 # Bruno Simbine
 
-Enthusiast of backend & mobile development technologies.
+Enthusiast of backend development technologies.
+<p align="center">
+  <a href="mailto:bruno.simbine@outlook.com">
+    <img src="https://img.shields.io/badge/-bruno.simbine@outlook.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+  <br />
+</p>
 
 ## CTO, Founder & Backend Developer: @Faturizze.
 
-Ask me about:
+*Ask me about:*
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -15,9 +21,3 @@ Ask me about:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
-
-<p align="center">
-  <a href="mailto:bruno.simbine@outlook.com">
-    <img src="https://img.shields.io/badge/-bruno.simbine@outlook.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
-</p>
