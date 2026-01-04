@@ -8,7 +8,7 @@ Enthusiast of backend development technologies.
   <br />
 </p>
 
-## CTO, Founder & Backend Developer: @Faturizze.
+## CTO & Founder: @Faturizze.
 
 *Ask me about:*
 
